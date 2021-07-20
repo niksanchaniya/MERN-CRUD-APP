@@ -1,0 +1,24 @@
+{
+    "user": [{
+            "name": "dhoni",
+            "username": " msdhoni",
+            "email": "dhoni@gamil.com",
+            "phone": "985274623",
+            "id": 1
+        },
+        {
+            "name": "virat ",
+            "username": "viratkohali",
+            "email": "viratkohali@gmail.com",
+            "phone": "7856298412",
+            "id": 2
+        },
+        {
+            "name": "ravindr ",
+            "username": "ravindrjadeja",
+            "email": "ravindrjadeja@gmail.com",
+            "phone": "6352174562",
+            "id": 3
+        }
+    ]
+}
